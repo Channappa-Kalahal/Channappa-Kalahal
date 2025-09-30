@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 👋 Hey there, welcome to my GitHub!
+
 Hi, I’m Channappa. I’m a final year B.Tech student, currently learning Full Stack Web Development. I enjoy building projects and improving my skills step by step.
 
 
